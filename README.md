@@ -50,29 +50,7 @@ The project uses a telecommunications customer dataset, which includes:
 - Services used
 - Churn status
 
-The dataset is included in the `data/` directory. Please refer to the notebook for detailed information about the dataset's structure and features.
 
-## Key Findings
-
-(Note: Replace this section with actual findings from your analysis)
-
-1. Feature X was found to be the strongest predictor of customer churn.
-2. Customers with characteristic Y are Z% more likely to churn.
-3. The model achieved an accuracy of XX% in predicting customer churn.
-
-## Recommendations
-
-(Note: Replace this section with actual recommendations based on your analysis)
-
-1. Implement targeted retention strategies for high-risk customer segments.
-2. Improve service quality in areas identified as pain points for churning customers.
-3. Develop personalized offers based on customer usage patterns and preferences.
-
-## Future Work
-
-- Incorporate additional data sources to enhance prediction accuracy
-- Experiment with advanced machine learning techniques (e.g., deep learning, ensemble methods)
-- Develop a real-time churn prediction system
 
 ## Acknowledgements
 
